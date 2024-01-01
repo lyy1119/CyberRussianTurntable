@@ -1,1 +1,2 @@
-"# CyberRussianTurntable" 
+### 赛博俄罗斯转盘  
+赌你的电脑会不会蓝屏 :-)  
